@@ -1,0 +1,138 @@
+ /* section{
+    min-height: 100vh;
+    padding: 8rem 12%;
+    width: 100%;
+    position: relative;
+ }
+ .about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .about .about-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+ }
+ .about .me{
+    border-radius: 50%;
+    width: 28vw;
+ }
+ .info-box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+ }
+ .info-box h3{
+    font-size: 1.8rem;
+    font-weight: 500;
+    opacity: 0.8;
+ }
+ .info-box h1{
+    font-size: 4rem;
+    font-weight: 600;
+ 
+ }
+ .info-box span {
+    background: linear-gradient(to right, #b820e6, #da7d20);
+    background-clip: text;
+    color: transparent;
+    font-size: 2rem;
+ }
+ .btn-groupe{
+    display: flex;
+    gap: 1rem;
+
+ }
+ button{
+    cursor: pointer;
+ }
+ .socials{
+    display: flex;
+    gap: 2rem;
+    
+ }
+  .socials a i{
+    font-size: 2.5rem;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+ }
+ .socials a i:hover{
+    transform: scale(1.1);
+ } */
+    /* .projects{
+                                display: flex;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                                  margin-top: 50px;
+                                gap: 20px;
+                                height: 400px;
+                                text-align: center;
+                                
+                            }
+                            .project{
+                                width: 30%;
+                                border: 3px solid black;
+                                border-radius: 20px;
+                            }
+                            .project img{
+                                width: 90%;
+                                height: 50%;
+                                margin: auto;
+                                border-radius: 15px;
+                                margin-top: 15px;
+                             }
+                             .project span{
+                                font-size: x-large;
+                                color: black;
+                                margin: auto;
+                                margin-top: 8px;
+                                font-weight: 500;
+                             }
+                             .project p{
+                                margin-top: 15px;
+                                width: 90%;
+                             }
+                             .btn-groupe{
+                                display: flex;
+                                align-items: center;
+                                flex-wrap: wrap;
+                                justify-content: center;
+                                gap: 7px;
+                             }
+                             .btn{
+                                border: 2px solid black;
+                                padding: 5px;
+                                border-radius: 20px;
+                                margin-top: 15px;
+                                cursor: pointer;
+
+                             }
+                             .hi{
+                                height: 100vh;
+                             } */
+   .whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366;
+    color: white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    z-index: 1000;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .whatsapp-float:hover {
+    background-color: #128c4a;
+  }
